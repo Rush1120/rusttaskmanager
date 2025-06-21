@@ -1,0 +1,9 @@
+[package]
+name = "rust-task-manager"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sysinfo = "0.29"
+tui = "0.19"
+crossterm = "0.26"
